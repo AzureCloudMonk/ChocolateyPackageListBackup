@@ -7,4 +7,4 @@ Need to upload any [PowerShell](https://DevopsCloud.io/doku.php?id=PowerShell) s
 
 Be sure to BE EXTREMELY CAREFUL not upload any [configuration secrets](https://DevopsCloud.io/doku.php?id=configuration%20secrets). These should be stored in my [HashiCorp Vault](https://DevopsCloud.io/doku.php?id=HashiCorp_Vault) [cluster](https://DevopsCloud.io/doku.php?id=HashiCorp_Vault_cluster).
 
-[Copyright](https://DevopsCloud.io/doku.php?id=Copyright) 2022
+[Copyright](https://DevopsCloud.io/doku.php?id=Copyright) [2022](https://DevopsCloud.io/doku.php?id=2022) [Losang Jinpa](https://DevopsCloud.io/doku.php?id=Losang_Jinpa) [a.k.a.](https://DevopsCloud.io/doku.php?id=a.k.a.) The [Cloud Monk]](https://DevopsCloud.io/doku.php?id=Cloud_Monk)
