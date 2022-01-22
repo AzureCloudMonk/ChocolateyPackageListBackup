@@ -1,7 +1,7 @@
 # ChocolateyPackageListBackup
 Choco-Package-List-Backup.ps1 - Backup Chocolatey packages list locally and to the cloud - Copyleft 2017-2022 Bill Curran (bcurran3@yahoo.com) - free for personal and commercial use
 
-[Cloud Monk](https://DevopsCloud.io/doku.php?id=Cloud_Monk)'s [backup](https://DevopsCloud.io/doku.php?id=backup) of all of his standarized [automated rebuilds](https://DevopsCloud.io/doku.php?id=automated_rebuilds) of his several [Windows developer PC](https://DevopsCloud.io/doku.php?id=Windows_developer_PC) core [Chocolatey](https://DevopsCloud.io/doku.php?id=Chocolatey) [package manager](https://DevopsCloud.io/doku.php?id=package_manager) [repos](https://DevopsCloud.io/doku.php?id=repos) for [[Windows setup](https://DevopsCloud.io/doku.php?id=Windows_setup).
+[Cloud Monk](https://DevopsCloud.io/doku.php?id=Cloud_Monk)'s [backup](https://DevopsCloud.io/doku.php?id=backup) of all of his standarized [automated rebuilds](https://DevopsCloud.io/doku.php?id=automated_rebuilds) of his several [Windows developer PC](https://DevopsCloud.io/doku.php?id=Windows_developer_PC) core [Chocolatey](https://DevopsCloud.io/doku.php?id=Chocolatey) [package manager](https://DevopsCloud.io/doku.php?id=package_manager) [repos](https://DevopsCloud.io/doku.php?id=repos) for [Windows setup](https://DevopsCloud.io/doku.php?id=Windows_setup).
 
 Need to upload any [PowerShell](https://DevopsCloud.io/doku.php?id=PowerShell) source code as appropriate.
 
