@@ -47,10 +47,9 @@
    <package id="dontsleep.install" />
    <package id="dotnet" />
    <package id="dotnet-5.0-desktopruntime" />
+   <package id="dotnet-5.0-sdk" />
    <package id="dotnet-5.0-sdk-1xx" />
    <package id="dotnet-6.0-runtime" />
-   <package id="dotnet-6.0-sdk" />
-   <package id="dotnet-6.0-sdk-2xx" />
    <package id="dotnet-runtime" />
    <package id="dotnet-sdk" />
    <package id="DotNet4.5" />
