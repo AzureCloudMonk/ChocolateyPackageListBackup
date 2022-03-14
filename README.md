@@ -1,5 +1,5 @@
 # ChocolateyPackageListBackup
-Choco-Package-List-Backup.ps1 - Backup Chocolatey packages list locally and to the cloud - Thanks go to: https://github.com/Copyleft 2017-2022 Bill Curran (bcurran3@yahoo.com) - free for personal and commercial use
+Choco-Package-List-Backup.ps1 - Backup Chocolatey packages list locally and to the cloud - Thanks go to: Copyleft 2017-2022 Bill Curran (bcurran3@yahoo.com) - free for personal and commercial use. Install instructions here: https://community.chocolatey.org/packages/choco-package-list-backup
 
 [Cloud Monk](https://DevopsCloud.io/doku.php?id=Cloud_Monk)'s [backup](https://DevopsCloud.io/doku.php?id=backup) of all of his standardized [automated rebuilds](https://DevopsCloud.io/doku.php?id=automated_rebuilds) of his several [Windows developer PC](https://DevopsCloud.io/doku.php?id=Windows_developer_PC) core [Chocolatey](https://DevopsCloud.io/doku.php?id=Chocolatey) [package manager](https://DevopsCloud.io/doku.php?id=package_manager) [repos](https://DevopsCloud.io/doku.php?id=repos) for [Windows setup](https://DevopsCloud.io/doku.php?id=Windows_setup).
 
